@@ -16,7 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/linkedin](https://www.linkedin.com/in/raphaeldiasld/)) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]([https://youtube.com/@youtube](https://www.youtube.com/channel/UCkehkQG2QkYxTU7a4fUu7jQ)) 
 
 ## 👀 Portifolio
-* [Galeria ANGELA]([https://www.rasidia.com.br](https://github.com/vidadophael/bootstrap_galery_remembering)https://github.com/vidadophael/bootstrap_galery_remembering)
+* [Galeria ANGELA](https://github.com/vidadophael/bootstrap_galery_remembering)
 * Projeto 1
 * Projeto 2
 * Projeto 3
