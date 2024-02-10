@@ -18,5 +18,9 @@
 ## 👀 Portifolio
 * ## Galeria Angela
   * [GitHub Galeria ANGELA](https://github.com/vidadophael/bootstrap_galery_remembering)
-  * [Site Galeria Angela](https://vidadophael.github.io/bootstrap_galery_remembering/) 
+  * [Site Galeria Angela](https://vidadophael.github.io/bootstrap_galery_remembering/)
+
+* ## My Portifolio Site
+  * [GitHub Rasidia Project](https://github.com/vidadophael/rasidia)
+  * [Site My Portifolio Personal](https://www.rasidia.com.br)
 
